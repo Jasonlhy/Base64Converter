@@ -1,0 +1,11 @@
+Encode Test Case:
+	Source File:
+		EncodeTestCase/SunShine.png	
+	Destination File:
+		EncodeTestCase/encodedSunShine.txt
+
+Decode Test Case:
+	Source File:
+		DecodeTestCase/encodeVictoria.txt
+	Destination File:
+		DecodeTestCase/decodedVictoria.jpg

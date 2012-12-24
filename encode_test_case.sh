@@ -1,0 +1,1 @@
+ruby base64_encoder.rb EncodeTestCase/SunShine.png EncodeTestCase/encodedSunShine.txt
