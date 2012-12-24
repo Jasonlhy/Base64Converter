@@ -4,8 +4,8 @@
 # First one is the path of source file
 # Second one is the path of destination file
 #
-# It reads the binary from source file
-# output encoded String to the destinatio file
+# 1. Read the encoded String from the source file
+# 2. Output the binary data to the the destination file  
 
 require 'base64'
 
